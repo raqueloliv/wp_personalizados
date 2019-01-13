@@ -1,0 +1,25 @@
+To: raqueloliveiracsi@gmail.com
+Subject: Novo site WordPress
+Date: Sun, 13 Jan 2019 12:51:28 +0000
+From: WordPress <wordpress@localhost>
+Message-ID: <1d91be5bf62a17d24d3307df22849f91@localhost>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Seu novo site WordPress foi configurado com sucesso em:
+
+http://localhost:8000
+
+Você pode acessar como administrador usando as seguintes informações:
+
+Usuário: raquel
+Senha: A senha que você escolheu durante a instalação.
+Acesse aqui: http://localhost:8000/wp-login.php
+
+Esperamos que você goste do seu novo site. Obrigado!
+
+--A equipe do WordPress
+https://wordpress.org/
+
